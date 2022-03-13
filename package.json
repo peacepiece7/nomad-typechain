@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "typescript": "^4.6.2"
+  },
+  "name": "nomad-typechain",
+  "description": "\"# nomad-typechain\"",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "prestart": "tsc",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peacepiece7/nomad-typechain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peacepiece7/nomad-typechain/issues"
+  },
+  "homepage": "https://github.com/peacepiece7/nomad-typechain#readme"
+}
