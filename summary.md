@@ -51,3 +51,8 @@ sayHi(name, age);
 ```js
 const sayHi = (person: Human) => console.log(person.name, persone.age, persone.gedner);
 ```
+
+# 0.8 Blockchain creating a block
+
+- Block class만들고
+- const genesisBlockchain : _Block_ = new Block(...); blockchain : [_Block_] = [genesisBlockchain]
